@@ -12,8 +12,19 @@ FROM
 (qvd);
 
 TEST:
-LOAD * InlineTableName:
-Load * Inline [
+LOAD * INLINE [
     Field1,Field2
     TEST1, TEST2
 ];
+
+TEST_2:
+LOAD * INLINE [
+    Field1,Field23
+    TEST1, TEST243
+    TESTr21, TESTr2
+];
+
+//fwjhflwjhefliwjf
+
+
+//shflnsd fsldnfsdfas
