@@ -10,3 +10,10 @@ LOAD
 FROM 
 [$(vG.QVDPath)Data_Firmware.qvd]
 (qvd);
+
+TEST:
+LOAD * InlineTableName:
+Load * Inline [
+    Field1,Field2
+    TEST1, TEST2
+];
