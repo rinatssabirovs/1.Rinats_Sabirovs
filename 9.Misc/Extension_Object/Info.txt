@@ -1,0 +1,5 @@
+//  ____________________________________________________________
+// |      Qlik Deployment Framework Path Info txt              		
+// |   Extension Oblect folder under misc contains backup of extension objects used
+// |                           					
+// |___________________________________________________________

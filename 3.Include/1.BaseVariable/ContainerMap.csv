@@ -1,0 +1,10 @@
+﻿ContainerPathName,ContainerFolderName,ContainerComments,RootPath
+Admin,0.Administration,Mandatory administration container,
+Example,1.Example,Container with basic examples,
+10.1.Rinats_Sabirovs,10.Sandbox\1.Rinats_Sabirovs,Sandbox Container for Rinats Sabirovs,
+Shared,99.Shared_Folders,Common content storage,
+1.1.99.Test,1.LV\1.Banking\99.Test,Test container for Call,
+,,,
+,,,
+,,,
+,,,

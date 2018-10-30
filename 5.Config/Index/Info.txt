@@ -1,0 +1,10 @@
+//  ____________________________________________________________
+// |      Deployment Framework Path Info txt                   |
+// | Contains information folder purpose and base variable     |
+// |  All path are based on vG.BasePath                        |
+// |___________________________________________________________|
+
+// Index folder, used by the index functions IndexLoad, IndexAdd, IndexDel
+// Usualy index only exists in the shared container
+
+Global Variable = vG.ConfigPath\Index

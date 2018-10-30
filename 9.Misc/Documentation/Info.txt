@@ -1,0 +1,5 @@
+//  ____________________________________________________________
+// |      Qlik Deployment Framework Path Info txt              		
+// |   Documentation folder under misc contains container content documentation
+// |                         					
+// |___________________________________________________________

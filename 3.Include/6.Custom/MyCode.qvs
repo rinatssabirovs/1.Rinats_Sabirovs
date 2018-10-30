@@ -1,0 +1,8 @@
+Test_Git:
+LOAD
+    Serial_No,
+    Cleaning_Session_Last_Date,
+    Firmware_Last
+FROM 
+[$(vG.QVDPath)Data_Firmware.qvd]
+(qvd);
