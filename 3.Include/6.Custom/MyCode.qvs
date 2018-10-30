@@ -1,3 +1,7 @@
+SET vG.HomeContainer='lib://10.1.Rinats_Sabirovs';
+
+$(Include=$(vG.HomeContainer)\InitLink.qvs);
+
 Test_Git:
 LOAD
     Serial_No,
